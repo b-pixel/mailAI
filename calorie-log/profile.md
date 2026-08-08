@@ -8,11 +8,18 @@
 | Рост | не указан |
 | Цель | похудеть |
 | База активности | сидячая |
-| Формат учёта | фото еды + текст активностей |
+| Формат учёта | фото еды + текст активностей + норма белка |
 
-## Рабочая цель (предварительно)
+## Рабочие цели
 
-Без роста — вилка **~1700–1900 ккал/день** (оценка по Mifflin–St Jeor + сидячий множитель, дефицит ~400–500).
+| Цель | Значение | Комментарий |
+|------|----------|-------------|
+| Калории | **~1700–1900 ккал/день** | без роста — вилка; Mifflin–St Jeor + сидячий множитель, дефицит ~400–500 |
+| Белок | **2,0 г/кг × 93 кг = 186 г/день** | выбор пользователя «х2»; верх ISSN 1,4–2,0 г/кг для тренирующихся |
 
-Источник формулы: Mifflin et al., Am J Clin Nutr 1990 — https://europepmc.org/article/MED/2305711  
-Источник применения: Academy of Nutrition and Dietetics — https://www.andeal.org/template.cfm?key=4341&template=guide_summary
+В каждом дне считаем: приход ккал + белок + остаток по обоим.
+
+Источник ккал: Mifflin et al., Am J Clin Nutr 1990 — https://europepmc.org/article/MED/2305711  
+Источник применения формулы: Academy of Nutrition and Dietetics — https://www.andeal.org/template.cfm?key=4341&template=guide_summary  
+Источник белка 1,4–2,0 г/кг: ISSN Position Stand: protein and exercise — https://pubmed.ncbi.nlm.nih.gov/28642676/  
+Источник повышенного белка в дефиците: Helms et al. / ISSN body composition — https://link.springer.com/article/10.1186/s12970-017-0174-y
