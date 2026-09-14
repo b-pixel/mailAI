@@ -54,7 +54,7 @@
 Источник вилки 25–30 г/день: USDA + WHO ≥25 г/день для взрослых — https://www.who.int/news-room/fact-sheets/detail/healthy-diet  
 Источник учёта клетчатки: выбор пользователя, чат 2026-09-11  
 Источник резюме «жир тела ± г»: уточнение пользователя, чат 2026-08-22  
-Источник повышенного белка в дефицite: Helms et al. / ISSN body composition — https://link.springer.com/article/10.1186/s12970-017-0174-y
+Источник повышенного белка в дефиците: Helms et al. / ISSN body composition — https://link.springer.com/article/10.1186/s12970-017-0174-y
 
 ## Тренировки (отдельный блок)
 
