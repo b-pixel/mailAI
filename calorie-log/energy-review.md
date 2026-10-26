@@ -65,4 +65,4 @@
 
 ## Статус
 
-Наблюдение 7–14 дней **пропущено** (решение Николая, 26.10). Анамнез собран: [energy/anamnesis-2026-10-26.md](energy/anamnesis-2026-10-26.md). Baseline собран: [energy/baseline-2026-10-26.md](energy/baseline-2026-10-26.md) (журнал 27.09–25.10; сон принято 6 ч, 2 пробуждения). Garmin 26.10: [energy/garmin-2026-10-26.md](energy/garmin-2026-10-26.md). Следующий шаг — литература через Security и выводы. Вопросы про объём — в блок 2. Шаблон [energy/2026-10-27.md](energy/2026-10-27.md) не заполняется.
+Выводы готовы: [energy/conclusions-2026-10-26.md](energy/conclusions-2026-10-26.md). План запущен **26.10**, переоценка **16.11**. Наблюдение 7–14 дней пропущено. Анамнез: [energy/anamnesis-2026-10-26.md](energy/anamnesis-2026-10-26.md). Baseline: [energy/baseline-2026-10-26.md](energy/baseline-2026-10-26.md). Garmin 26.10: [energy/garmin-2026-10-26.md](energy/garmin-2026-10-26.md).
